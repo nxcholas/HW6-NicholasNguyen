@@ -1,7 +1,12 @@
-#ex1-container {
+#ex4-container {
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+}
+
+#addLinkBtn {
+  margin-top: 1rem;
+  font-size: xx-large;
 }

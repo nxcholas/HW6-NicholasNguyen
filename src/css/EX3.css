@@ -1,0 +1,17 @@
+#ex3-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.toggleBold {
+  margin-top: 1rem;
+  color: yellow;
+  font-size: xx-large;
+}
+
+.resetBtn {
+  margin-top: 1rem;
+}

@@ -1,0 +1,23 @@
+#ex6-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Base styling for the definition list */
+dl {
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+}
+
+/* Styling for terms (dt) */
+dt {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+/* Styling for descriptions (dd) */
+dd {
+  margin: 0 0 10px 20px; /* Adds indentation for the description */
+}

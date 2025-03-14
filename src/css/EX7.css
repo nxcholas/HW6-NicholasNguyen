@@ -1,0 +1,23 @@
+#ex7-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#ex7-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#ex7-content > input {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  width: 25vw;
+  height: 10vh;
+  font-size: x-large;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+  padding: 1rem;
+}
